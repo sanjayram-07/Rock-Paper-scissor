@@ -1,0 +1,47 @@
+ body{
+            background-color: black;
+            color:white;
+            text-align:center;
+            font-style:normal;
+        }
+
+        .image-front{
+            height: 140px;
+            
+        }
+        .rock-img{
+            background-color: transparent;
+            border:3px solid white;
+            padding-top:30px;
+            padding-right:20px;
+            padding-left:30px;
+            padding-bottom:25px;
+            border-radius:50%;
+            margin-right:25px;
+
+        }
+        .rock-img:hover{
+            background-color: rgb(80, 80, 80);
+        }
+        .result-cls{
+            font-size:45px;
+            
+        }
+        .result-font{
+            font-size:30px;
+            font-weight: 200px;
+            margin-top:90px;
+        }
+        .btn{
+            border: 3px solid white;
+            padding:20px 20px 20px 20px;
+            border-radius:30%;
+            font-size: 25px;
+            background-color:rgb(0, 0, 0);
+            color:white;
+        }
+        .btn:hover{
+            background-color: rgb(162, 162, 162);
+            color:black;
+          
+        }
