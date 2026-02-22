@@ -18,3 +18,4 @@ jobs:
           app-name: rockpaper-sanjay
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
           package: .
+
